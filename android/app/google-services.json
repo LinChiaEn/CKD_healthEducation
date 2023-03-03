@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261800963350",
+    "project_id": "fluttercal-a3b8d",
+    "storage_bucket": "fluttercal-a3b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261800963350:android:3d5326e143fcc5abe5f437",
+        "android_client_info": {
+          "package_name": "com.example.class4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261800963350-rt8s32m633a0vmm6d9a39moe6iajkcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWX5KGQsAT2A15aRp0IzZTM17walbfgbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261800963350-rt8s32m633a0vmm6d9a39moe6iajkcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
